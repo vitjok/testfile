@@ -1,0 +1,26 @@
+{
+	"asset": {
+		"version": "0.0",
+		"gltfUpAxis": "Y"
+	},
+	"geometricError": 70.0,
+	"root": {
+		"boundingVolume": {
+			"region": [0.11956663582861249, 0.89123432035416239, 0.12103107065079011, 0.89243174665067326, 0, 100]
+		},
+		"geometricError": 70.0,
+		"refine": "ADD",
+		"children": [
+			{
+				"boundingVolume": {
+					"region": [0.11956663582861249, 0.89123432035416239, 0.12103107065079011, 0.89243174665067326, 0, 100]
+				},
+				"geometricError": 0.0,
+				"refine": "ADD",
+				"content": {
+					"url": "outputfile.vctr"
+				}
+			}
+		]
+	}
+}
